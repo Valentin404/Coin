@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/Coin/static/css/main.04adff03.chunk.css",
-    "main.js": "/Coin/static/js/main.090841bc.chunk.js",
-    "main.js.map": "/Coin/static/js/main.090841bc.chunk.js.map",
+    "main.css": "/Coin/static/css/main.a69251ca.chunk.css",
+    "main.js": "/Coin/static/js/main.f0e03016.chunk.js",
+    "main.js.map": "/Coin/static/js/main.f0e03016.chunk.js.map",
     "runtime-main.js": "/Coin/static/js/runtime-main.755fc588.js",
     "runtime-main.js.map": "/Coin/static/js/runtime-main.755fc588.js.map",
-    "static/js/2.e2e5fe8d.chunk.js": "/Coin/static/js/2.e2e5fe8d.chunk.js",
-    "static/js/2.e2e5fe8d.chunk.js.map": "/Coin/static/js/2.e2e5fe8d.chunk.js.map",
+    "static/js/2.542e511b.chunk.js": "/Coin/static/js/2.542e511b.chunk.js",
+    "static/js/2.542e511b.chunk.js.map": "/Coin/static/js/2.542e511b.chunk.js.map",
     "index.html": "/Coin/index.html",
-    "static/css/main.04adff03.chunk.css.map": "/Coin/static/css/main.04adff03.chunk.css.map",
-    "static/js/2.e2e5fe8d.chunk.js.LICENSE.txt": "/Coin/static/js/2.e2e5fe8d.chunk.js.LICENSE.txt"
+    "static/css/main.a69251ca.chunk.css.map": "/Coin/static/css/main.a69251ca.chunk.css.map",
+    "static/js/2.542e511b.chunk.js.LICENSE.txt": "/Coin/static/js/2.542e511b.chunk.js.LICENSE.txt",
+    "static/media/Sound_17211.b84432ba.mp3": "/Coin/static/media/Sound_17211.b84432ba.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.755fc588.js",
-    "static/js/2.e2e5fe8d.chunk.js",
-    "static/css/main.04adff03.chunk.css",
-    "static/js/main.090841bc.chunk.js"
+    "static/js/2.542e511b.chunk.js",
+    "static/css/main.a69251ca.chunk.css",
+    "static/js/main.f0e03016.chunk.js"
   ]
 }
